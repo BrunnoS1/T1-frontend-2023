@@ -1,0 +1,32 @@
+body {
+    padding: 20px;
+  }
+  
+  .underline {
+    text-decoration: underline;
+  }
+
+  .nome-prof{
+    font-weight: bold;
+    color: black;
+  }
+
+  .disciplina{
+    padding: 20px;
+  }
+  
+  .box-custom {
+    padding: 20px;
+    width: fit-content;
+    border-radius: 15px;
+    min-height: 300px;
+    margin-bottom: 20px;
+  }
+  
+.texto-centralizado {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  text-align: center;
+  left: 250px;
+}
